@@ -1,4 +1,4 @@
-                                                                          Music Player Web Application
+                                                            Music Player Web Application
                                                                           
 This is a music player web application built using HTML, CSS. It allows users to listen to their favorite songs, explore popular artists, and discover new music across various genres.
 
