@@ -32,3 +32,11 @@ Images: Unsplash
 Fonts: FontAwesome
 
 Feel free to contribute to this project by adding new features, fixing bugs, or improving the user interface. Your feedback and suggestions are also highly appreciated! 🎵🎶
+
+
+Sample Images 
+![image](https://github.com/Ayushjaiswal2000/Music_Player/assets/86403516/9fb1ffe4-d06d-4e7e-941a-f3670148adf7)
+
+![image](https://github.com/Ayushjaiswal2000/Music_Player/assets/86403516/38f9da8a-6b78-4bef-b869-277473c5b317)
+
+
